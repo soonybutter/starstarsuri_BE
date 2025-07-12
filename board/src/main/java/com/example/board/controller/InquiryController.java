@@ -15,7 +15,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/inquiries")
-@CrossOrigin(origins = "http://localhost:3000")  // React 개발서버 주소 교차 허용
+@CrossOrigin(origins = {"http://localhost:3000", "http://20.41.123.6"} )  // React 개발서버 주소 교차 허용
 public class InquiryController {
 
 	private final InquiryService service;
