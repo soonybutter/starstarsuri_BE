@@ -24,7 +24,7 @@ http://starstarsuri.o-r.kr/
 - **MySQL**
 - **Gradle**
 - **Spring Security**
-- **Azure VM** 배포 경험
+- **Azure VM**
 
 ## 📦 프로젝트 실행 방법
 
